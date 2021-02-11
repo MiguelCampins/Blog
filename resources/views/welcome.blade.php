@@ -28,8 +28,7 @@
     <img src="/images/foto2.jpg" class="img-fluid" style="width: 400px" height="300px">
         <div class="border border-5 mt-4 mx-5 p-4">
              <p style="font-size: 18px">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel exercitationem perferendis nemo similique beatae fugiat,
-                quidem sequi consectetur esse, labore blanditiis, eos cupiditate consequuntur reprehenderit delectus minima maxime numquam temporibus.
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel exercitationem perferendis nemo similique beatae fugiat, quidem sequi consectetur esse, labore blanditiis,
+                quidem sequi consectetur esse, labore blanditiis, . Vel exercitationem perferendis nemo similique beatae fugiat, quidem sequi consectetur esse, labore blanditiis,
                 eos cupiditate consequuntur reprehenderit delectus minima maxime numquam temporibus.</p>
             <p style="font-size: 18px">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel exercitationem perferendis nemo similique beatae fugiat,
                 quidem sequi consectetur esse, labore blanditiis, eos cupiditate consequuntur reprehenderit delectus minima maxime numquam temporibus.
