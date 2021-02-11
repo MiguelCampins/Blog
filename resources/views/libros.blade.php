@@ -13,7 +13,7 @@
         <div class="col-3 ml-5">
             <a href="{{url('/libro2')}}" type="button"><img id="libro" src="/images/libro2.jpg" class="img-fluid" style="box-shadow: 10px 10px 5px grey;"></a>
             <div class="text-center mt-3">
-                <p>HARRY POTTER Y</p>
+                <p>Popeye Y</p>
                 <p>LA CAMARA SECRETA</p>
             </div>
         </div>
