@@ -23,7 +23,7 @@
     <form class="text-center mt-5" action="{{url('/contacto')}}" method="post">
         @csrf
         <div class="row form-group">
-            <label class="col-3 h4">Pepino:</label>
+            <label class="col-3 h4">Nombre:</label>
             <input class="col-8" type="text" name="nombre" placeholder="Nombre:">
         </div>
         <div class="row form-group">
